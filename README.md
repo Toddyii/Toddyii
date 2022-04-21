@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Toddyii
+- 🌱 I’m currently learning Swift from Paul Hudson, Chris Ching, Stewart Lynch, tundsdev, swiftwithmajid, Antoine van der Lee
+- 📫 How to reach me: Twitter @TorbenDierks
